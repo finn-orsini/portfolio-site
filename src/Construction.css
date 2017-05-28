@@ -1,0 +1,23 @@
+.constructionBody {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.name {
+  display: inline-block;
+  font-size: 5em;
+  font-family: 'drugs';
+}
+
+.first {
+  color: #8097A0;
+}
+
+.last {
+  color: #607077;
+}
+
+.message {
+  font-size: 2em;
+  font-family: 'drugs';
+}
