@@ -21,3 +21,9 @@ GitHub Pages and `create-react-app` on `master` - but again, I like to get up an
 The publishing solution I settled on is [Surge.sh](https://surge.sh/). In short - it's awesome. Originally, I used `npm run build` to build the
 `create-react-app` project, and then `surge <path_to_build_directory>` to publish. Even more convenient, surge has git hooks to publish any time
 you `push` to simplify your workflow further. I highly recommend taking a look at the docs and publishing a site with it today. It'll take you two minutes - tops.
+
+
+## Planned Projects
+
+1) Maze Generation using recursive backtracking (with visualization)
+2) Various path finding algorithm visualizations
