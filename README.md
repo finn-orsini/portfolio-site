@@ -12,8 +12,7 @@ This project is published with [Surge](https://surge.sh/)
 
 Since I use the library professionally, I really wanted to build this website using [React](https://facebook.github.io/react/).
 Also, since figuring out boilerplate is not my strong suit, I used `create-react-app` to get up and running quickly.
-The `create-react-app` user guide has [steps](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages) to connect to github pages
-- however these steps require using the `gh-pages` branch of a project for publishing. Because this is a personal/user project,
+The `create-react-app` user guide has [steps](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages) to connect to github pages, however these steps require using the `gh-pages` branch of a project for publishing. Because this is a personal/user project,
 github pages requires the branch used for publishing to be `master`. I'm sure with more digging I could find a way to use
 github pages and `create-react-app` on `master` - but again, I like to get up and running quickly, with minimal time spent on stackOverflow.
 
