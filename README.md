@@ -10,7 +10,7 @@ This project is published with [Surge](https://surge.sh/)
 
 ##### Why not Github Pages?
 
-Since I use the library professionaly, I really wanted to build this website using [React](https://facebook.github.io/react/).
+Since I use the library professionally, I really wanted to build this website using [React](https://facebook.github.io/react/).
 Also, since figuring out boilerplate is not my strong suit, I used `create-react-app` to get up and running quickly.
 The `create-react-app` user guide has [steps](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages) to connect to github pages
 - however these steps require using the `gh-pages` branch of a project for publishing. Because this is a personal/user project,
