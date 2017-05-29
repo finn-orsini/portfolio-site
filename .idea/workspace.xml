@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e31cc187-38e6-4519-8e47-9a9f83999cce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="e31cc187-38e6-4519-8e47-9a9f83999cce" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -207,15 +205,15 @@
       <option name="presentableId" value="Default" />
       <updated>1495948544072</updated>
       <workItem from="1495948545266" duration="527000" />
-      <workItem from="1495950373399" duration="782000" />
+      <workItem from="1495950373399" duration="909000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1309000" />
+    <option name="totallyTimeSpent" value="1436000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="98" y="22" width="1517" height="988" extended-state="0" />
+    <frame x="98" y="22" width="1517" height="988" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23071852" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
